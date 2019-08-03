@@ -1,16 +1,17 @@
 #Web Design
 
-Welcome To
+## Welcome To ##
 Welcome to my web design repisitory
 
-Category
+## Category ##
 html css codes
 
-Problems
+## Problems ##
 Design related problem
 
-Author
-Md. Rashedul Islam
+## Author ##
+[Rashedul Islam](https://github.com/rashedcs)
 
-Welcome Back
+
+## Welcome Back ##
 Please feel free comment out bellow if you get somthing important.
