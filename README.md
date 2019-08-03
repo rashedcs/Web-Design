@@ -11,7 +11,7 @@ html css codes
 Design related problem
 
 ## Author ##
-[Rashedul Islam](https://github.com/rashedcs)
+[Rashed](https://github.com/rashedcs)
 
 
 ## Reference ##
