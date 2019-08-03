@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title> My Design </title>
+	<style>
+	  #custom{
+	    color:green;
+		font-size:14px;
+	  }
+	  .convention{
+	    color:red;
+		font-size:16px;
+	  }
+	  .userdefind1{
+	  	font-size : 10px;
+		height : 200px;
+		width : 40%;
+		background-color : green;
+		float : left
+	  }
+	  .userdefind2{
+	    font-size : 10px;
+		height : 200px;
+		width : 60%;
+		background-color : black;
+		float : left;
+	  }
+	  .userdefind3{
+	  	font-size : 10px;
+		height : 200px;
+		width : 500px;
+		background-color : red;
+		float : left;
+		margin-right : 100px
+	  }
+	  .userdefind4{
+	    font-size : 10px;
+		height : 200px;
+		width : 750px;
+		background-color : red;
+		float : left;
+		margin-left : 100px
+
+	  }
+	  .userdefind5{
+	  	font-size : 10px;
+		height : 200px;
+		width : 40%;
+		background-color : yellow;
+		float : left;
+		padding-top:100px;
+	    padding-left:50px;
+		box-sizing:border-box;
+	  }
+	  .userdefind6{
+	    font-size : 10px;
+		height : 200px;
+		width : 60%;
+		background-color : green;
+		float : left;
+		padding-top:100px;
+		box-sizing:border-box;
+	    padding-right:50px;
+	  }
+
+	</style>
+  <head>
+  <body>
+     <h2 id="custom"> This is id system which you can use one time </h2>
+     <h2 class="convention"> This is class system which you can use infinite time </h2>
+	 <h2 style="color:black; font-size:18px;"> This is called inline style </h2>
+	
+	 <!-- Float -->
+	 <div class="userdefind1">
+		<h2> 
+		    Div is a block level element which take enire row by default
+			But You take partial row by float left optin.
+		</h2>
+	 </div>
+     <div class="userdefind2">
+		<h2> Div is a block level element which take enire row by default</h2>
+	</div>
+	
+	
+    <!-- Margin -->
+	<div class="userdefind3">
+		<h2>Margin helps to distance from two div externally </h2>
+	</div>
+	<div class="userdefind4">
+		<h2> Div is a block level element which take enire row by default</h2>
+	</div>
+	
+	
+	<!-- Padding -->
+	<div class="userdefind5">
+		<h2>
+		    Padding worksin div internally  
+		    Padding top increases area from top & Padding top enhances area from left
+		</h2>
+	</div>
+	<div class="userdefind6">
+		<h2>
+		         Without box sizing properties padding increase the div size.
+			     Padding left enhances area from right
+		</h2>
+	</div>
+	
+  </body>
+  
+</html>
